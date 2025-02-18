@@ -4,4 +4,4 @@ I have performed this project with UNP. The supply chain report provides an over
 
 PROJECT DASHBOARD FILE : https://drive.google.com/file/d/10UeIUD8uX4QPv8z-Wl_2JBtDBSBikOjG/view?usp=sharing
 
-PROJECT PDF FILE : 
+PROJECT PDF FILE : https://drive.google.com/file/d/1klB0EzM8ugD76cxvqgB1HenmlExqrD9J/view?usp=sharing
