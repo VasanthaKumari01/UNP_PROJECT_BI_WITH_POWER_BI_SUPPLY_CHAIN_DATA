@@ -1,6 +1,6 @@
 # UNP_PROJECT_BI_WITH_POWER_BI_SUPPLY_CHAIN_DATA
 
-I have performed this project with UNP. The supply chain report provides an overview of product availability, customer purchasing behavior, supplier contributions, and transportation efficiency. It highlights the importance of optimizing logistics to reduce costs and improve delivery times. The analysis suggests a focus on high-value products and efficient transportation methods to enhance overall profitability. Additionally, it emphasizes the need for strategic decision-making based on past trends and real-time tracking to minimize delays and improve operational effectiveness.
+I worked with UNP on this project. The supply chain dashboard offers information on how to improve logistics and inventory efficiency. First, we comprehended the data.handled missing or corrupted files, imported raw data from Excel, and made sure the data was consistent.After eliminating duplicate records, handling missing values, applying data validation rules to ensure accuracy, and fixing inconsistencies (such as multiple spellings of supplier names), we determined that there was no need to prepare a data model. We then went on to create key metrics like total revenue, total cost, and total profit as well as bar, pie, and donut charts that showed total revenue by product type, location, total sales by product type and location, shipping costs by carriers, product type and transportation modes, and defect rates.
 
 PROJECT DASHBOARD FILE : https://drive.google.com/file/d/10UeIUD8uX4QPv8z-Wl_2JBtDBSBikOjG/view?usp=sharing
 
